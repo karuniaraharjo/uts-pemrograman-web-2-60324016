@@ -26,12 +26,12 @@ CREATE TABLE kategori (
 
 Struktur folder:
 uts_60324016/
-├── config/
-│   └── database.php
-├── index.php
-├── create.php
-├── edit.php
-├── delete.php
-└── README.md
+- config/
+  - database.php
+- index.php
+- create.php
+- edit.php
+- delete.php
+- README.md
 
 Link repository GitHub: https://github.com/karuniaraharjo/uts-pemrograman-web-2-60324016
